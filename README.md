@@ -25,26 +25,15 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 ### C. Registered Users Can Can
 1. All ot Non-Registered Users
 2. Add to Cart
-3. Pay with PayPal or Debit/Credit Card and Order
-4. See the Order Status
-5. See Order History
-6. Update Profile 
-7. Change Password
-8. Reset Password
+3. See the Order Status
+4. See Order History
+5. Update Profile 
+6. Change Password
+7. Reset Password
 
 
 ## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
+1. Add a Star 🌟  to this 👆 Repository 
 
 
 ## How to Install and Run this project?
